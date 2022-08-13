@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.hero{
+    display: flex;
+    justify-content:space-around;
+    align-items: start;
+}
+ul img{
+    background-color: black;
+    color: brown;
+}
+.hero1{
+    width: 83.4%;
+    position: fixed;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.413);
+    color: aliceblue;
+    display: flex;
+    justify-content:space-around;
+    align-items: start;
+}
+.card1{
+    margin-top: 20px;
+    
+    width: 143px;
+    height: 25px;
+  
+    
+}
+.card2 ul {
+    display: flex;
+    justify-content:space-around;
+    align-items: start;
+}
+.card2 ul li{
+    margin: 20px;
+}
+.card3{
+    margin-top: 20px;
+}
+.hr{
+    background-color: rgb(49, 196, 13);
+    color: rgb(219, 14, 14);
+    width: 1200px;
+}
+.hero2{
+    color: aliceblue;
+    background-color: black;
+    display: flex;
+    justify-content:space-around;
+    align-items: start;
+}
+.hero2 img{
+    width: 500px;
+    height: 400px;
+}
+.box1{
+    width: 400px;
+    margin-top: 100px;
+}
+.box1 p{
+    padding: 10px;
+}
+.box1 h1{
+    padding: 10px;
+    
+}
+ button{
+    margin-top: 30px;
+    padding: 7px;
+    width: 120px;
+    margin-left: 10px;
+    background: #D87D4A;
+    border-radius: 10px;
+    color: rgb(101, 7, 7);
+}
+.car{
+    margin-top: 200px;
+    width: 300px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.058);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 4px 3px 10px 2px rgba(0, 0, 0, 0.41) ;
+}
+.car img{
+    margin-top: -100px;
+    width: 170px;
+    height:200px;
+}
+.car p{
+   margin-top: 30px;
+   font-size: 30px;
+    text-shadow: 2px 3px 2px cornflowerblue ;
+}
+.carr{
+    width: 1200px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 100px;
+     background: #D87D4A;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+
+}
+.carr button{
+    background-color: black;
+    padding: 10px;
+    width: 130px;
+    color: aliceblue;
+}
+.tii{
+    position: relative;
+}
+.tiim img{
+    width: 1200px;
+    left: -600px;
+    top: 70px;
+position:absolute;
+        border-radius: 10px;
+}
+.tiim h2 {
+    left: -400px;
+    top: 230px;
+    position: absolute;
+}
+.tiim button{
+    color: aliceblue;
+    font-size: 17px;
+    border-radius: 1px;
+    background-color: transparent;
+    left: -400px;
+    top: 240px;
+    position: absolute;
+}
+.nbg{
+    text-align: center;
+    width: 600px;
+    height: 320px;
+    margin: 10px;
+    background-color: rgba(155, 135, 135, 0.193);
+    margin-top: 600px;
+}
+.nbg h2{
+    width: 560px;
+
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+.nbg img{
+    width: 600px;
+    height: 320px;
+    background-color: rgba(155, 135, 135, 0.193);
+
+}
+.nbg  button{
+    background-color: transparent;
+    padding: 10px;
+    width: 130px;
+    border-radius: 1px;
+    color: rgb(2, 3, 4);
+}
+.boox{
+     
+    width: 500px;
+    margin-top: 100px;
+}
+.boox img{
+    width: 600px;
+    margin-left: 100px;
+    width: 450px;
+}
+.boox h2{
+    margin-top: 160px;
+    margin-left: -30px;
+}
+.boox p{
+    margin-left: -30px;
+    margin-top: 20px;
+      color: rgba(0, 0, 0, 0.513);
+}
+.toxir{
+    height: 300px;
+    background-color: rgba(222, 216, 216, 0.361);
+    margin-top: 100px;
+    width: 600px;
+}
+.toxir ul{
+    display: flex;
+    align-items: center;
+    
+}
+.toxir ul li{
+    margin: 10px;
+}
+ ull img{
+    margin-top: 100px;
+ }
+ .toxir p{
+    margin-left: 40px;
+    width: 400px;
+ }
+ .toxir h2{
+    margin-top: 100px;
+    margin-left: 40px;
+ }
+ .toxir a{
+    margin-left: 40px;
+    padding: 3px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-left: 130px;
+    border-radius: 20px;
+ }
